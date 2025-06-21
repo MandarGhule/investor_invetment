@@ -20,6 +20,7 @@ int main()
 
     drawLine(60,'_');
     cout << "\n\n\n\t\tCASINO GAME\n\n\n\n";
+	cout<<"hello world"
     drawLine(60,'_');
  
     cout << "\n\nEnter Your Name : ";
